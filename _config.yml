@@ -61,11 +61,10 @@ footer-menu:
 
 # Homepage
 homepage:
-  header-text: 'Deep-fried is a minimalist Jekyll theme optimized for readability and performance'
-  intro-text: 'Compatible with <a href="https://pages.github.com">GitHub Pages</a>, 
-              <a href="https://github.com/floatinginteger64/floatinginteger64.github.io">Meson Science</a> was 
+  header-text: 'This is the blog of MesonScience'
+  intro-text: '<a href="https://github.com/floatinginteger64/floatinginteger64.github.io">Meson Science</a> was 
               created by <a href="http://mesonscience.ml/about">Ron Bali</a> and is 
-              laser focused on <em>"Science, Math & Tech"</em>'
+              laser focused on <em>"Science, Math & Tech"</em>. Seems good, right?'
    latest-articles-enabled: true
   latest-articles-title-text: 'Latest Articles'
   latest-articles-link-enabled: true
