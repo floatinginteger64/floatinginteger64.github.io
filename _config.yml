@@ -1,9 +1,9 @@
 # Site settings
 baseurl: ''
 url: 'https://mesonscience.ml'
-title: 'Deep-fried'
-description: 'A minimalist Jekyll theme optimized for readability and performance.'
-author: 'Steven McLintock'
+title: 'MesonScience'
+description: 'The blog of Meson Science'
+author: 'Ron Bali'
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -61,14 +61,10 @@ footer-menu:
 
 # Homepage
 homepage:
-  header-text: 'Deep-fried is a minimalist Jekyll theme optimized for readability and performance'
+  header-text: 'Science, Tech, Maths'
   intro-text: 'Compatible with <a href="https://pages.github.com">GitHub Pages</a>, 
-              <a href="https://github.com/kiltandcode/deep-fried-jekyll-theme">Deep-fried</a> was 
-              created by <a href="http://www.kiltandcode.com">Steven McLintock</a> and is 
-              named after <em>"Scotland’s craziest takeaway"</em>, the delicious and 
-              ridiculously unhealthy 
-              <a href="https://en.wikipedia.org/wiki/Deep-fried_Mars_bar">Deep-fried 
-              Mars bar.</a>'
+              <a href="https://github.com/kiltandcode/deep-fried-jekyll-theme">Meson science</a> 
+              is the blog of Ron Bali, where he talks about Science, Technology & Mathematics'
   intro-image: 'deep-fried-chocolate.png'
   latest-articles-enabled: true
   latest-articles-title-text: 'Latest Articles'
