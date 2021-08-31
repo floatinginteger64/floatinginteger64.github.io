@@ -1,15 +1,6 @@
 ---
 layout: page
-title: "About Deep-fried"
+title: "About MesonScience"
 ---
 
-Deep-fried is a minimalist Jekyll theme optimized for readability and 
-performance. Compatible with [GitHub Pages](https://pages.github.com), 
-[Deep-fried](https://github.com/kiltandcode/deep-fried-jekyll-theme) 
-was created by [Steven McLintock](http://www.kiltandcode.com) and is 
-named after *"Scotland’s craziest takeaway"*, the delicious and 
-ridiculously unhealthy 
-[Deep-fried Mars bar](https://en.wikipedia.org/wiki/Deep-fried_Mars_bar).
-
-To find out more, please visit 
-[github.com/kiltandcode/deep-fried](https://github.com/kiltandcode/deep-fried-jekyll-theme).
+MesonScience is the blog of Ron Bali. MesonScience, as the name suggests is a site dedicated to the pursuit of knowledge, in the fields of Science, Maths & Technology. THe website of MesonScience is hosted on GitHub Pages & uses Jekyll for it's front-end management.
