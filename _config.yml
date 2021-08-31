@@ -62,7 +62,7 @@ footer-menu:
 # Homepage
 homepage:
   header-text: 'Science, Tech, Maths'
-  intro-text: '<a href="https://github.com/floatinginteger64/floatinginteger64.github.io/">Meson science</a> 
+  intro-text: '<a href="https://github.com/floatinginteger64/floatinginteger64.github.io/">MesonScience</a> 
               is the blog of Ron Bali, where he talks about Science, Technology & Mathematics'
   latest-articles-enabled: true
   latest-articles-title-text: 'Latest Articles'
