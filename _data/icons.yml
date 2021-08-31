@@ -2,18 +2,18 @@ deep-fried:
   src: /assets/img/icons/deep-fried.png
   
 atomic: 
-  /assets/img/icons/meson-icon.jpg
+  src: /assets/img/icons/meson-icon.jpg
   
 clang: 
-  /assets/img/icons/clang.png
+  src: /assets/img/icons/clang.png
   
 csharp: 
-  /assets/img/icons/csharp.png
+  src: /assets/img/icons/csharp.png
   
 golang: 
-  /assets/img/icons/golang.png
+  src: /assets/img/icons/golang.png
   
 jekyll: 
-  /assets/img/icons/meson-icon.jpg
+  src: /assets/img/icons/meson-icon.jpg
     
     
