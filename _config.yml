@@ -64,7 +64,6 @@ homepage:
   header-text: 'Science, Tech, Maths'
   intro-text: '<a href="https://github.com/floatinginteger64/floatinginteger64.github.io/">Meson science</a> 
               is the blog of Ron Bali, where he talks about Science, Technology & Mathematics'
-  intro-image: '/asset/img/meson-lrge.jpg'
   latest-articles-enabled: true
   latest-articles-title-text: 'Latest Articles'
   latest-articles-link-enabled: true
