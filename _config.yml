@@ -38,7 +38,7 @@ site-manifest: '/site.webmanifest'
 # The logo motif
 logo-motif:
   enabled: true
-  src: '/assets/img/deep-fried-chocolate-motif.png'
+  src: '/assets/img/mesonscience.png'
   width: '135'
   height: '90'
 
