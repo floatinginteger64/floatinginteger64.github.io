@@ -62,8 +62,7 @@ footer-menu:
 # Homepage
 homepage:
   header-text: 'Science, Tech, Maths'
-  intro-text: 'Compatible with <a href="https://pages.github.com">GitHub Pages</a>, 
-              <a href="https://github.com/kiltandcode/deep-fried-jekyll-theme">Meson science</a> 
+  intro-text: '<a href="https://github.com/kiltandcode/deep-fried-jekyll-theme">Meson science</a> 
               is the blog of Ron Bali, where he talks about Science, Technology & Mathematics'
   intro-image: 'deep-fried-chocolate.png'
   latest-articles-enabled: true
